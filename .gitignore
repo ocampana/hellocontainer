@@ -9,3 +9,7 @@ configure
 src/.deps/
 src/hellocontainer
 stamp-h1
+hellocontainer
+layer_*/
+rootfs
+.*.swp
